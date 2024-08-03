@@ -85,8 +85,6 @@ plt.title("histogram")
 plt.show()
 
 
-# In[ ]:
-
 
 
 
